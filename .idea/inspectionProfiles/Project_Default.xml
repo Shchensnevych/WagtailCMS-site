@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="[MAXLENGTH" />
+            <item index="1" class="java.lang.String" itemvalue="[ACCESSKEY" />
+            <item index="2" class="java.lang.String" itemvalue="[AUTOFOCUS]" />
+            <item index="3" class="java.lang.String" itemvalue="[READONLY]" />
+            <item index="4" class="java.lang.String" itemvalue="[DISABLED]" />
+            <item index="5" class="java.lang.String" itemvalue="[TABINDEX" />
+            <item index="6" class="java.lang.String" itemvalue="[SIZE" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
