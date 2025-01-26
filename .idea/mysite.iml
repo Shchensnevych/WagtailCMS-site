@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/env/Lib/site-packages/sample_taggit" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/env" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (.venv)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 virtualenv at C:\Users\Yurec\OneDrive\Projects\WagtailCMS-site\env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
